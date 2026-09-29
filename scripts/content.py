@@ -3,185 +3,191 @@ SERVICES = [
         'slug': 'dachbeschichtung-versiegelung',
         'old_slug': 'water-tank-cleaning',
         'name': 'Dachbeschichtung & Versiegelung',
-        'short': 'Professionelle Beschichtung.\nSchutz & neue Optik.',
-        'category': 'DACH',
+        'short': 'Neuer Glanz.\nDauerhafter Schutz.',
+        'category': 'DACHBESCHICHTUNG',
         'image': 'moving',
-        'alt': 'Fachkraft bei der Dachbeschichtung an einem Einfamilienhaus in Hamburg',
-        'intro': 'Dachreinigung, Grundierung und hochwertige Dachbeschichtung in Hamburg und Norddeutschland – kompetent, schnell, zuverlässig.',
-        'description': 'Dachbeschichtung von Bartsch & Loßner GmbH in Hamburg. Schutz vor Witterung, Moos und Ausbleichen mit Marken-Dachfarben.',
-        'overview': 'Eine professionelle Dachbeschichtung schützt Ihre Betondachsteine oder Tondachziegel nachhaltig vor Verwitterung, Durchfeuchtung und Moosbefall. Bartsch & Loßner GmbH verwendet hochwertige, atmungsaktive Reinacryl-Farben für langjährigen Glanz und Schutz.',
-        'for': ['Private Hausbesitzer in Hamburg', 'Gewerbeobjekte & Hallen', 'Mehrfamilienhäuser in Norddeutschland'],
+        'alt': 'Fachkraft bei der Dachbeschichtung an einem Wohnhaus in Hamburg',
+        'intro': 'Hochwertige Dachbeschichtung und Farbversiegelung für Betondachsteine und Tonziegel in Hamburg und ganz Norddeutschland.',
+        'description': 'Dachbeschichtung von Bartsch & Loßner GmbH in Hamburg. Langzeitschutz, Farbneugestaltung und Werterhalt für Ihr Dach.',
+        'overview': 'Eine professionelle Dachbeschichtung schützt Ihr Dach zuverlässig vor Witterungseinflüssen, Moosbefall und UV-Strahlung. Bartsch & Loßner GmbH bringt hochwertige Reinacryl-Beschichtungen auf, die Ihr Dach wie neu aussehen lassen und die Lebensdauer um Jahrzehnte verlängern.',
+        'for': ['Private Hausbesitzer', 'Gewerbeimmobilien in Hamburg-Nord', 'Hausverwaltungen in Norddeutschland'],
         'included': [
-            'Gründliche Dachreinigung mit regulierbarem Druck',
-            'Sichtprüfung und Austausch defekter Dachziegel',
-            'Auftragen einer abgestimmten Spezial-Grundierung',
-            'Zweifache Beschichtung mit hochwertiger Dachfarbe',
-            'Imprägnierung & Porenschutz gegen Flechten & Algen',
-            'Saubere Übergabe & Garantie auf die Beschichtung'
+            'Gründliche Vorab-Inspektion des Daches vor Ort',
+            'Spezial-Hochdruckreinigung der Dachfläche',
+            'Ersetzen beschädigter Ziegel & Ausbesserungsarbeiten',
+            'Aufbringen von Grundierung & Haftvermittler',
+            'Zweifache Qualitätsbeschichtung in Wunschfarbe',
+            'Saubere Übergabe & Baustellenabnahme'
         ],
-        'scope_note': 'Vor der Beschichtung wird die Eignung der Dachpfannen vor Ort in Hamburg kostenlos geprüft.',
+        'scope_note': 'Besondere Farb- oder Beschichtungswünsche werden im kostenlosen Festpreisangebot genau ausgewiesen.',
         'steps': [
-            ('Kostenlose Dachprüfung', 'Ersterfassung und Beurteilung der Dachsubstanz bei Ihnen vor Ort.'),
-            ('Dachreinigung', 'Porentiefe Säuberung ohne den Einsatz chemischer Keulen.'),
-            ('Grundierung & Schutz', 'Aufbringen der Haftgrundierung und Schutzschichten.'),
-            ('Zweifache Beschichtung', 'Farbe aufsprühen für ein gleichmäßiges, wie neu wirkendes Dach.')
+            ('Kostenlose Dachprüfung', 'Ersterfassung und Inspektion Ihres Daches in Hamburg-Nord und Umgebung.'),
+            ('Festpreisangebot', 'Transparenter Kostenvoranschlag mit Farbmusterauswahl.'),
+            ('Gründliche Vorbereitung', 'Professionelle Dachreinigung und kleine Ausbesserungen.'),
+            ('Beschichtung auftragen', 'Zweilagige Qualitätsbeschichtung für maximalen Wetterschutz.')
         ],
         'prepare': [
-            'Ungefähres Alter und Material der Dachpfannen',
-            'Grundfläche oder geschätzte Dachfläche in m²',
-            'Standort in Hamburg / Norddeutschland',
-            'Gewünschter Farbton für die Dachbeschichtung'
+            'Geschätzte Dachfläche und Eindeckungsart (Betonpfannen, Tonziegel)',
+            'Fotos vom Dach und Dachzustand',
+            'Wunschfarbe für die Beschichtung (z.B. Anthrazit, Ziegelrot, Dünkelbraun)',
+            'Standort (z.B. Hamburg-Nord, Pestalozzistraße)'
         ],
         'cost': [
-            'Dachfläche und Dachsteintyp (Betonsteine, Tonziegel etc.)',
-            'Zugänglichkeit und Dachneigung',
-            'Erforderliche Reparatur- und Vorarbeiten',
-            'Auswahl des Beschichtungssystems'
+            'Dachfläche in Quadratmetern und Dachneigung',
+            'Zustand der Ziegel und nötige Vorarbeiten',
+            'Gewähltes Beschichtungssystem und Farbton',
+            'Zugänglichkeit und eventueller Gerüstbedarf'
         ],
         'faqs': [
-            ('Wie lange hält eine professionelle Dachbeschichtung?', 'Bei fachgerechter Durchführung durch Bartsch & Loßner hält eine Qualitäts-Dachbeschichtung 15 bis 20+ Jahre.'),
-            ('Welche Farben stehen zur Auswahl?', 'Wir bieten eine große Auswahl an klassischen Tönen wie Anthrazit, Ziegelrot, Braun, Dunkelgrau und Glanzfarben.'),
-            ('Ist eine Beschichtung günstiger als eine Neueindeckung?', 'Ja! Eine Dachbeschichtung kostet meist nur etwa 20% bis 30% einer kompletten Neueindeckung bei optisch gleichwertigem Ergebnis.'),
-            ('Bieten Sie Garantie auf die Dachbeschichtung?', 'Selbstverständlich erhalten Sie bei Bartsch & Loßner eine schriftliche Gewährleistung auf unsere Beschichtungsarbeiten.')
+            ('Wie lange hält eine professionelle Dachbeschichtung?', 'Eine fachgerecht durchgeführte Dachbeschichtung von Bartsch & Loßner hält in der Regel 15 bis 20+ Jahre.'),
+            ('Welche Farben stehen für das Dach zur Auswahl?', 'Wir bieten eine große Auswahl an klassischen und modernen Farbtönen wie Anthrazit, Ziegelrot, Dünkelbraun, Schwarz und Kastanie.'),
+            ('Ist eine Dachbeschichtung günstiger als eine Neueindeckung?', 'Ja! Eine Dachbeschichtung kostet meist nur einen Bruchteil einer Neueindeckung und schützt das Dach genauso effektiv.'),
+            ('Arbeiten Sie in ganz Hamburg und Umgebung?', 'Ja, Bartsch & Loßner GmbH ist Ihr Fachbetrieb für Hamburg, Hamburg-Nord und den gesamten norddeutschen Raum.')
         ],
-        'aside': 'Ihr Fachbetrieb aus Hamburg für den Norden – seit vielen Jahren.'
+        'aside': 'Ihr Fachbetrieb aus Hamburg für den Norden – kompetent, schnell & zuverlässig.'
     },
     {
-        'slug': 'dachreinigung-entmoosung',
+        'slug': 'dachreinigung-moosentfernung',
         'old_slug': 'commercial-cleaning',
-        'name': 'Dachreinigung & Entmoosung',
-        'short': 'Gründliche Säuberung.\nFrei von Moos & Flechten.',
+        'name': 'Dachreinigung & Algenentfernung',
+        'short': 'Porentief sauber.\nFreier Ablauf.',
         'category': 'REINIGUNG',
         'image': 'cleaning',
-        'alt': 'Dachreinigung mit Wasserhochdruck an einem Wohnhaus in Hamburg-Nord',
-        'intro': 'Schonende und porentiefe Dachreinigung ohne Beschädigung der Ziegel in Hamburg und Umgebung.',
-        'description': 'Porentiefe Dachreinigung und Entmoosung von Bartsch & Loßner GmbH Hamburg. Entfernung von Algen, Moos und Schmutzablagerungen.',
-        'overview': 'Moos, Flechten und Ruß greifen mit den Jahren die Oberfläche der Dachsteine an und speichern Feuchtigkeit. Mit einer schonenden, professionellen Dachreinigung stellen wir den sauberen Zustand Ihres Daches wieder her.',
-        'for': ['Moos- und Algenbefall', 'Verschmutzte Dachflächen', 'Vorbereitung auf Beschichtung'],
+        'alt': 'Schonende Dachreinigung an einem Hausdach in Hamburg',
+        'intro': 'Schonende und gründliche Hochdruckreinigung von Flechten, Moos und Umweltablagerungen auf Ihrem Dach.',
+        'description': 'Dachreinigung und Moosentfernung in Hamburg von Bartsch & Loßner GmbH. Porentiefe Säuberung ohne Beschädigung der Ziegel.',
+        'overview': 'Moos, Flechten und Algen speichern Feuchtigkeit und greifen die Substanz von Dachziegeln an. Bartsch & Loßner reinigt Ihr Dach umweltschonend und gründlich, damit Wasser wieder ungehindert ablaufen kann.',
+        'for': ['Moos- und Algenbefall auf Pfannen', 'Verschmutzte Hausdächer', 'Vorbereitung zur Beschichtung'],
         'included': [
-            'Sorgfältiges Abkleben empfindlicher Bereiche & Rinnen',
-            'Reinigung mit speziell abgestimmtem Wasserdruck',
-            'Porentiefe Entfernung von Algen, Flechten & Pilzen',
-            'Reinigung und Freispülung aller Dachrinnen',
-            'Reinigung der umgebenden Hauswände & Fenster',
-            'Fachgerechte Entsorgung aller Schmutzreste'
+            'Schonende Wasserhochdruckreinigung ohne Chemie',
+            'Vollständige Entfernung von Moos, Flechten & Ablagerungen',
+            'Reinigung der Dachrinnen nach den Arbeiten',
+            'Sichtprüfung der Dachziegel auf Beschädigungen',
+            'Fachgerechte Entsorgung des Moosabfalls',
+            'Empfehlung für Anschlussschutz & Imprägnierung'
         ],
-        'scope_note': 'Geschulte Mitarbeiter arbeiten sicher vom Gerüst oder mit Sicherheitsgeschirr.',
+        'scope_note': 'Besonders empfindliche Dachmaterialien werden mit angepasstem Druck gereinigt.',
         'steps': [
-            ('Besichtigung vereinbaren', 'Anruf unter +49 40 64413366 oder Online-Anfrage senden.'),
-            ('Vorbereitung vor Ort', 'Abdeckung von Wintergärten, Fenstern und Gehwegen.'),
-            ('Porentiefe Reinigung', 'Systematische Säuberung von oben nach unten.'),
-            ('Sauberes Gesamtergebnis', 'Inklusive Rinnenreinigung und Aufräumarbeiten.')
+            ('Anfrage senden', 'Rufen Sie uns unter +49 40 64413366 an oder nutzen Sie das Online-Formular.'),
+            ('Dachprüfung vor Ort', 'Kostenfreie Besichtigung und Beratung in Hamburg-Nord.'),
+            ('Reinigung durchführen', 'Gründliche Säuberung der gesamten Dachfläche.'),
+            ('Sauberes Ergebnis', 'Ihr Dach strahlt wieder sauber und gepflegt.')
         ],
         'prepare': [
-            'Fotos von den verschmutzten Dachflächen',
-            'Adresse in Hamburg oder Umgebung',
-            'Wasser- und Stromanschluss am Objekt'
+            'Standort des Hauses (Hamburg-Nord und Umgebung)',
+            'Fotos von der Verschmutzung des Daches',
+            'Zugangsmöglichkeit rund ums Gebäude',
+            'Wasser- und Stromanschluss vor Ort'
         ],
         'cost': [
-            'Dachfläche in Quadratmetern',
+            'Dachfläche in m²',
             'Stärke des Moos- und Algenbefalls',
-            'Erreichbarkeit und Steilheit des Daches'
+            'Steilheit des Daches und Arbeitssicherheit',
+            'Kombination mit anschließender Versiegelung'
         ],
         'faqs': [
-            ('Wird das Dach bei der Reinigung beschädigt?', 'Nein, wir arbeiten mit angepasstem Wasserdruck und Profi-Düsen, die die Ziegeloberfläche schonen.'),
-            ('Muss nach der Reinigung imprägniert werden?', 'Eine Imprägnierung oder Beschichtung im Anschluss wird dringend empfohlen, um ein schnelles Wiedererblühen von Moos zu verhindern.')
+            ('Wird das Dach bei der Reinigung beschädigt?', 'Nein, wir arbeiten mit regulierbarem Druck und Fachverstand, um die Ziegeloberfläche schonend zu reinigen.'),
+            ('Werden die Dachrinnen danach gesäubert?', 'Ja, die Reinigung der Dachrinnen ist nach der Dachreinigung selbstverständlich inbegriffen.'),
+            ('Wie schnell bekommt man einen Termin in Hamburg?', 'Wir versuchen Terminwünsche in Hamburg und Umgebung stets zeitnah zu ermöglichen. Rufen Sie uns unter +49 40 64413366 an.')
         ],
-        'aside': 'Saubere Dachflächen schützen das Gebäude langfristig.'
+        'aside': 'Porentiefe Sauberkeit für ein langlebiges Dach.'
     },
     {
-        'slug': 'fassadenreinigung-beschichtung',
+        'slug': 'fassadenreinigung-schutz',
         'old_slug': 'packers-and-movers',
-        'name': 'Fassadenreinigung & -beschichtung',
-        'short': 'Frische Fassade.\nWerterhalt fürs Haus.',
+        'name': 'Fassadenreinigung & Schutz',
+        'short': 'Saubere Wände.\nGepflegte Optik.',
         'category': 'FASSADE',
         'image': 'moving',
-        'alt': 'Fassadenreinigung und Schutzanstrich an einem Gebäude in Hamburg',
-        'intro': 'Schonende Fassadenreinigung, Algenentfernung und hochwertige Fassadenbeschichtung in Hamburg-Nord.',
-        'description': 'Fassadenreinigung und Fassadenanstrich von Bartsch & Loßner GmbH in Hamburg. Schutz vor Algen, Pilzen und Witterung.',
-        'overview': 'Schmutzige Fassaden wirken nicht nur unansehnlich, sondern Algen und Pilze können den Putz schädigen. Bartsch & Loßner GmbH reinigt und beschichtet Putz-, Klinker- und Betonglieder nachhaltig für eine frische Optik.',
-        'for': ['Putz- & Klinkerfassaden', 'Einfamilienhäuser & Gewerbe', 'Hausverwaltungen in Hamburg'],
+        'alt': 'Fassadenreinigung an einem Wohngebäude in Hamburg-Nord',
+        'intro': 'Werterhaltende Fassadenreinigung und Imprägnierung gegen Algen-, Pilz- und Rußbefall an Außenwänden.',
+        'description': 'Fassadenreinigung & Imprägnierung in Hamburg von Bartsch & Loßner GmbH. Saubere Fassaden für Haus- und Gewerbeobjekte.',
+        'overview': 'Grüne Algenstreifen, dunkle Pilzflecken und Schmutz lassen Fassaden unansehnlich wirken. Bartsch & Loßner reinigt und imprägniert Putz-, Klinker- und Stein-Fassaden wirkungsvoll, ohne den Putz anzugreifen.',
+        'for': ['Putz- & Klinkerfassaden', 'Einfamilien- & Mehrfamilienhäuser', 'Gewerbeobjekte in Hamburg'],
         'included': [
-            'Fassadenanalyse & Probefläche',
-            'Sanfte Vorbehandlung gegen Algen- & Pilzbefall',
-            'Schonendes Abwaschen der Fassade',
-            'Ausbesserung kleinerer Putzrisse',
-            'Hochwertiger Fassadenanstrich / Versiegelung',
-            'Saubere Abwicklung ohne Gerüstpfand'
+            'Prüfung des Untergrunds & Fassadenmaterials',
+            'Schonendes Aufbringen von Fassadenreiniger',
+            'Sanftes Abwaschen von Algen, Flechten & Ruß',
+            'Aufbringen von Langzeit-Hydrophobierung (Imprägnierung)',
+            'Abdecken von Fenstern und empfindlichen Bauteilen',
+            'Abschlussabnahme vor Ort'
         ],
-        'scope_note': 'Farbtonberatung erfolgt individuell direkt vor Ort.',
+        'scope_note': 'Beschädigter Putz oder Klinkernähte sollten vor der Imprägnierung ausgebessert werden.',
         'steps': [
-            ('Fassade prüfen', 'Ersterfassung und Farbauswahl.'),
-            ('Reinigen & Behandeln', 'Algenstopp und sanfte Reinigung.'),
-            ('Putz ausbessern', 'Vorbereitung kleinerer Schadstellen.'),
-            ('Fassadenanstrich', 'Aufbringen der wetterfesten Fassadenfarbe.')
+            ('Fassade begutachten', 'Ersterfassung der Flächen und Verschmutzung.'),
+            ('Testfläche reinigen', 'Musterreinigung an kleiner Stelle zur Abstimmung.'),
+            ('Hauptreinigung & Schutz', 'Reinigung der Gesamtfläche und Imprägnierung.'),
+            ('Langzeitschutz genießen', 'Ihre Fassade ist nachhaltig vor Neuverschmutzung geschützt.')
         ],
         'prepare': [
-            'Geschätzte Fassadenfläche',
-            'Putzart oder Klinker',
-            'Gewünschte Farbänderung'
+            'Fassadenmaterial (z.B. Putz, Klinker, WDVS)',
+            'Ungefähre Wandfläche in m²',
+            'Fotos der verschmutzten Fassadenseiten',
+            'Standort in Hamburg'
         ],
         'cost': [
-            'Fassadenfläche in m²',
-            'Verschmutzungsgrad und Befall',
-            'Anzahl der Anstriche und Qualitätsklasse der Farbe'
+            'Fassadenfläche und Gebäudehöhe',
+            'Art des Untergrunds und Verschmutzungsgrad',
+            'Auswahl der Schutzimprägnierung',
+            'Gerüst- oder Steigerbedarf'
         ],
         'faqs': [
-            ('Wie lange hält der Schutzanstrich der Fassade?', 'Ein professioneller Fassadenanstrich von Bartsch & Loßner schützt Ihr Gebäude 10 bis 15 Jahre vor erneuter Veralgung.'),
-            ('Bieten Sie auch Probeflächen an?', 'Ja, gerne legen wir vorab eine kostenlose Musterfläche an Ihrer Fassade an.')
+            ('Muss die Fassade neu gestrichen werden?', 'In vielen Fällen reicht eine professionelle Fassadenreinigung mit Imprägnierung völlig aus und spart teure Malerarbeiten.'),
+            ('Wie lange schützt die Imprägnierung?', 'Unsere Fassadenimprägnierung bietet je nach Witterungsschutz für viele Jahre zuverlässigen Schutz vor erneuter Veralgung.'),
+            ('Bieten Sie auch kostenlose Beratungen vor Ort an?', 'Ja, wir besichtigen Ihr Objekt in Hamburg-Nord gerne persönlich.')
         ],
         'aside': 'Schöne Fassaden steigern den Wert Ihrer Immobilie.'
     },
     {
-        'slug': 'dachinspektion-reparatur',
+        'slug': 'dachreparatur-dachtechnik',
         'old_slug': 'waste-and-scrap-pickup',
-        'name': 'Dachinspektion & Reparatur',
-        'short': 'Gründliche Prüfung.\nFachgerechte Reparatur.',
-        'category': 'SANIERUNG',
+        'name': 'Dachreparatur & Wartung',
+        'short': 'Kleine Ausbesserung.\nGroße Wirkung.',
+        'category': 'REPARATUR',
         'image': 'tank',
-        'alt': 'Dachdecker bei Inspektion und Ziegelaustausch in Hamburg',
-        'intro': 'Dachkontrolle, Firsterneuerung, Ziegelaustausch und Ausbesserungsarbeiten vor der Beschichtung.',
-        'description': 'Dachreparatur und Dachinspektion von Bartsch & Loßner GmbH in Hamburg. First neu verstreichen, Ziegel austauschen.',
-        'overview': 'Vor jeder Beschichtung prüfen wir die Substanz Ihres Daches gründlich. Beschädigte Dachziegel werden ausgetauscht, Firste neu verfugt oder abgedichtet und Anschlüsse kontrolliert, damit das Dach vollkommen intakt ist.',
-        'for': ['Beschädigte Dachziegel', 'Bröckelnder Firstmörtel', 'Vorab-Check vor Beschichtung'],
+        'alt': 'Dachdeckerarbeiten und Dachkontrolle in Hamburg',
+        'intro': 'Ziegelaustausch, Behebung kleiner Leckagen und regelmäßige Inspektion Ihres Daches vor der Beschichtung.',
+        'description': 'Dachreparatur und Wartung von Bartsch & Loßner GmbH Hamburg. Fachgerechter Ziegelaustausch und Dachkontrolle.',
+        'overview': 'Vor jeder Beschichtung oder bei kleinen Sturmschäden muss das Dach intakt sein. Bartsch & Loßner prüft Ihr Dach gründlich, tauscht defekte Dachziegel aus und stellt die volle Funktionsfähigkeit wieder her.',
+        'for': ['Defekte oder verschobene Ziegel', 'Kleine Lecks am Dach', 'Regelmäßige Dachinspektion'],
         'included': [
-            'Detaillierte Sichtprüfung aller Dachpfannen',
-            'Austausch gebrochener oder gerissener Ziegel',
-            'Erneuerung & Trockenverlegung von Firstziegeln',
-            'Prüfung der Kamin- & Wandanschlüsse',
-            'Kontrolle der Dachrinnen & Ablaufrohre',
-            'Abschlussdokumentation zum Dachzustand'
+            'Prüfung von Ziegeln, Firststeinen und Anschlüssen',
+            'Austausch gebrochener oder fehlender Dachziegel',
+            'Erneuerung von Firstverklammerungen',
+            'Abdichtung von Anschlussblechen',
+            'Reinigung der Notabläufe',
+            'Protokoll über den Zustand des Daches'
         ],
-        'scope_note': 'Kleinere Reparaturen werden im Rahmen der Vorbereitung direkt miterledigt.',
+        'scope_note': 'Komplette Dachumdeckungen oder Zimmermannsarbeiten bieten wir als Spezialist für Beschichtung & Reparatur im vereinbarten Rahmen an.',
         'steps': [
-            ('Dachinspektion', 'Gründliche Begehung und Mängelerfassung.'),
-            ('Reparaturplan', 'Transparenter Kostenvoranschlag.'),
-            ('Ausbessern', 'Ersetzen defekter Ziegel und Firstarbeiten.'),
-            ('Bereit zur Beschichtung', 'Ihr Dach ist nun perfekt vorbereitet.')
+            ('Schaden beschreiben', 'Rufen Sie uns unter +49 40 64413366 an.'),
+            ('Inspektion vor Ort', 'Sorgfältige Dachkontrolle in Hamburg.'),
+            ('Reparatur ausführen', 'Ziegelaustausch und fachgerechte Abdichtung.'),
+            ('Dach gesichert', 'Ihr Dach ist wieder witterungsbeständig.')
         ],
         'prepare': [
-            'Fotos von bekannten Lecks oder gebrochenen Ziegeln',
-            'Alter des Daches',
-            'Standort Pestalozzistraße / Hamburg'
+            'Fotos der beschädigten Stellen',
+            'Standort in Hamburg-Nord / Pestalozzistraße',
+            'Art der Dachziegel (z.B. Frankfurter Pfanne, Hohlpfanne)'
         ],
         'cost': [
-            'Menge der auszutauschenden Dachpfannen',
-            'Umfang der Firstarbeiten',
-            'Aufwand für Anschlüsse und Einblechungen'
+            'Anzahl der zu tauschenden Ziegel',
+            'Aufwand der Ausbesserungsarbeiten',
+            'Dachtyp und Erreichbarkeit'
         ],
         'faqs': [
-            ('Können kaputte Ziegel vor der Beschichtung gewechselt werden?', 'Ja! Das Ersetzen defekter Dachziegel gehört bei uns standardmäßig zur gründlichen Vorbereitung.'),
-            ('Wie schnell bekommen wir einen Termin?', 'Rufen Sie uns an unter +49 40 64413366. Wir vereinbaren zeitnah einen Besichtigungstermin.')
+            ('Tauschen Sie auch einzelne Ziegel aus?', 'Ja, der Austausch beschädigter Ziegel gehört zu unserem Service.'),
+            ('Wird die Reparatur vor der Beschichtung gemacht?', 'Selbstverständlich. Eine Beschichtung erfolgt nur auf einem intakten Dach.')
         ],
-        'aside': 'Kompetent – schnell – zuverlässig.'
+        'aside': 'Kompetent – Schnell – Zuverlässig.'
     }
 ]
 
 GENERAL_FAQS = [
-    ('Welche Leistungen bietet Bartsch & Loßner GmbH an?', 'Wir sind Ihr Fachbetrieb für professionelle Dachbeschichtung & Versiegelung, Dachreinigung & Entmoosung, Fassadenreinigung & -beschichtung sowie Dachinspektion und Reparaturen in Hamburg und Norddeutschland.'),
-    ('Wo ist Bartsch & Loßner GmbH ansässig?', 'Unser Firmensitz ist in Pestalozzistraße 25, 22305 Hamburg-Nord, Germany (in hwcon GmbH). Wir arbeiten in ganz Hamburg und im gesamten norddeutschen Raum.'),
-    ('Wie kann ich Bartsch & Loßner GmbH erreichen?', 'Sie erreichen uns telefonisch unter +49 40 64413366 oder online über unsere Webseite bartsch-dachbeschichtung.de.'),
-    ('Wie wird Bartsch & Loßner GmbH bewertet?', 'Bartsch & Loßner GmbH ist mit 4.8 von 5 Sternen bei 71 Google-Bewertungen ausgezeichnet!'),
-    ('Welche Öffnungszeiten hat Bartsch & Loßner GmbH?', 'Unser Büro ist von Montag bis Freitag von 08:00 bis 18:00 Uhr geöffnet.'),
-    ('Ist ein Erstgespräch oder eine Probefläche kostenlos?', 'Ja! Wir bieten Ihnen eine kostenlose Beratung vor Ort an und legen auf Wunsch auch eine Probefläche an.')
+    ('Welche Leistungen bietet Bartsch & Loßner GmbH an?', 'Wir sind Ihr Fachbetrieb für Dachbeschichtung & Versiegelung, Dachreinigung & Algenentfernung, Fassadenreinigung sowie Dachreparaturen & Wartung in Hamburg.'),
+    ('Wo befindet sich der Firmensitz von Bartsch & Loßner GmbH?', 'Unser Firmensitz ist in der Pestalozzistraße 25, 22305 Hamburg-Nord (in hwcon GmbH). Wir sind in ganz Hamburg und Norddeutschland tätig.'),
+    ('Wie kann ich Bartsch & Loßner GmbH erreichen?', 'Sie erreichen uns telefonisch unter +49 40 64413366 oder online über unsere Webseite www.bartsch-dachbeschichtung.de.'),
+    ('Wie bewerten Kunden Bartsch & Loßner GmbH?', 'Bartsch & Loßner GmbH ist auf Google mit hervorragenden 4.8 von 5 Sternen bei 71 Kundenbewertungen ausgezeichnet!'),
+    ('Wann sind die Öffnungszeiten von Bartsch & Loßner GmbH?', 'Wir sind von Montag bis Freitag von 08:00 bis 18:00 Uhr für Sie erreichbar.'),
+    ('Ist ein Erstgespräch oder Angebot vor Ort kostenlos?', 'Ja, die Ersterfassung und Beratung vor Ort in Hamburg und Umgebung ist für Sie unverbindlich und kostenfrei.')
 ]
